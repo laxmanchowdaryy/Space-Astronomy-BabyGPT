@@ -1,0 +1,8 @@
+SPACE AND ASTRONOMY DATASET STATISTICS
+======================================
+Characters: 1366133
+Words: 216196
+Lines: 479
+Paragraphs: 240
+Tokens: 1366133
+Vocabulary size: 158
